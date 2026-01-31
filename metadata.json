@@ -1,0 +1,5 @@
+{
+  "name": "Stick Reacts Live",
+  "description": "A 3D stick figure that reacts to YouTube Live Chat using Gemini AI and TTS.",
+  "requestFramePermissions": []
+}
